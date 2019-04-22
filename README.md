@@ -2,10 +2,10 @@
 
 Consider a staircase of size **n = 4**:
 
-  `#
-  `##
- `###
-`####
+  `#``
+  `##`
+ `###`
+`####`
 
 Observe that its base and height are both equal to
 
