@@ -48,9 +48,9 @@ spaces in it.
 
 ### Sample Output
 
-     `###`
-     
-    `###`
+     `    #`
+  
+  `   ##`
     
    `###`
    
