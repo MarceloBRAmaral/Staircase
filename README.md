@@ -49,10 +49,15 @@ spaces in it.
 ### Sample Output
 
      `#`
+     
     `##`
+    
    `###`
+   
   `####`
+  
  `#####`
+ 
 `######`
 
 ### Explanation
