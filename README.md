@@ -1,8 +1,6 @@
 # Staircase
 
-Consider a staircase of size
-
-:
+Consider a staircase of size **n = 4**:
 
    #
   ##
