@@ -1,0 +1,19 @@
+import java.util.Scanner;
+
+public class MiniMaxSum {
+
+    public static void main(String[] args) {
+
+        Scanner input = new Scanner(System.in);
+        int n = input.nextInt();
+        for(int i=0;i<n;i++){//overall loop
+            for(int j=0;j<n-i-1;j++){//space loop
+                System.out.print(" ");
+            }
+            for(int k=0;k<i+1;k++){//# loop
+                System.out.print("#");
+            }
+            System.out.println("");//jump to the next line
+        }
+    }
+}
