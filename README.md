@@ -20,27 +20,21 @@ Complete the staircase function in the editor below. It should print a staircase
 
 staircase has the following parameter(s):
 
-    n: an integer
+- n: an integer
 
 ### Input Format
 
-A single integer,
-
-, denoting the size of the staircase.
+A single integer, **n**, denoting the size of the staircase.
 
 ### Constraints
 
-.
+**0 < n <= 100**.
 
 ### Output Format
 
-Print a staircase of size
+Print a staircase of size **n** using `#` symbols and spaces.
 
-using `#` symbols and spaces.
-
-Note: The last line must have
-
-spaces in it.
+**Note:** The last line must have **0** spaces in it.
 
 ### Sample Input
 
@@ -63,5 +57,4 @@ spaces in it.
 
 ### Explanation
 
-The staircase is right-aligned, composed of # symbols and spaces, and has a height and width of
-.
+The staircase is right-aligned, composed of `#` symbols and spaces, and has a height and width of **n = 6**.
